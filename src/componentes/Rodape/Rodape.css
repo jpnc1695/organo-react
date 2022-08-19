@@ -1,0 +1,25 @@
+.rodape{
+  background: #6278F7;
+  height: 180px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  
+}
+
+.rodape .img .logo{
+  margin-right: 50px;
+}
+
+.rodape .organo{
+  width: 70%;
+}
+
+.rodape .dev{
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  color: #FFFFFF;
+}
